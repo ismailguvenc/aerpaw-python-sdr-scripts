@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.sigmf-data
+*.npy
+*.dat
+*.raw
+results/
